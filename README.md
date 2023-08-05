@@ -1,5 +1,6 @@
 # Stadium-Seat-Booking-GUI
 This project is regarding the GUI for the Stadium Seat Booking system using Java Swing. The primary focus is on the use of various GUI components and hence there is no database connectivity in this project.
+
 It is highly recommended to view the project in 1920 x 1080 resolution in Eclipse IDE.
 
 The various features that I have included in my project are –
